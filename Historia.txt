@@ -3,3 +3,5 @@ curso de git
 platzi 
 
 Cientifico de datos 
+
+PRENDIENDO ANDO CON GIT
