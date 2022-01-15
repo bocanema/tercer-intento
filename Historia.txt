@@ -5,3 +5,5 @@ platzi
 Cientifico de datos 
 
 PRENDIENDO ANDO CON GIT
+
+hoy hablaremos de su vida 
